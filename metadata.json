@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Advanced Client",
+  "description": "A sophisticated React-based chat client for the Google Gemini API featuring persona management, session export/import, and intelligent response continuation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
